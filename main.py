@@ -3,7 +3,7 @@ import smtplib
 import datetime as dt
 import random
 
-MY_EMAIL = "kimkosh0109@gmail.com"
+MY_EMAIL = "kimich123@gmail.com"
 MY_PASSWORD = "****"
 
 now = dt.datetime.now()
@@ -28,7 +28,7 @@ if weekday == 1:
 ## Sending Email with Python
 # import smtplib
 #
-# my_email = "appbreweryinfo@gmail.com"
+# my_email = "kimich123@gmail.com"
 # password = "abcd1234()"
 #
 # with smtplib.SMTP("smtp.gmail.com") as connection:
@@ -36,7 +36,7 @@ if weekday == 1:
 #     connection.login(user=my_email, password=password)
 #     connection.sendmail(
 #         from_addr=my_email,
-#         to_addrs="appbrewerytesting@yahoo.com",
+#         to_addrs="kimich987@yahoo.com",
 #         msg="Subject:Hello\n\nThis is the body of my email."
 #     )
 
@@ -50,5 +50,5 @@ if weekday == 1:
 # day_of_week = now.weekday()
 # print(day_of_week)
 #
-# date_of_birth = dt.datetime(year=1995, month=12, day=15, hour=4)
+# date_of_birth = dt.datetime(year=1997, month=12, day=15, hour=4)
 # print(date_of_birth)
